@@ -1,1 +1,1 @@
-# rumor-nails
+Realizado na minha aula da faculdade, uma tela de login com inspiração de uma empresa de uma amiga minha, me baseie no código do @soufiane-khalfaoui-hassani(NO CODEPEN, ENCONTRA O CARA, MALUCO É BOM), fiz minhas mudanças e adicionei o que gostei, fico legal, so preciso me apefeiçoar melhor.
